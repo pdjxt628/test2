@@ -1,3 +1,6 @@
+//test変数を追加
+var test;
+
 var time = 30;
 var counter = 0;
 var rand;
